@@ -27,7 +27,8 @@ The Specifications:
 
         If 4: Print a shutdown message and use the break command to smash out of the while loop and end the script.
 
-        Else: If they type anything other than 1, 2, 3, or 4, print "Invalid command. Try again.""""
+        Else: If they type anything other than 1, 2, 3, or 4, print "Invalid command. Try again." 
+        """
 
 roster = []
 while True:
